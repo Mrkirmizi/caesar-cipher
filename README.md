@@ -75,7 +75,7 @@ This project is a Caesar Cipher application developed for my IT career. The proj
 
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install tk flask
     ```
 
 ## Usage
@@ -97,7 +97,7 @@ To run the desktop application with Tkinter:
 
 1. Run the Python file:
     ```bash
-    python tkinter_app.py
+    python gui_app.py
     ```
 
 ## Contributing
