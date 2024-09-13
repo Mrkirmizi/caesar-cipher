@@ -14,7 +14,7 @@ Bu proje, IT kariyerim için geliştirdiğim bir Caesar Cipher uygulamasıdır. 
 1. Bu projeyi klonlayın:
     ```bash
     git clone https://github.com/Mrkirmizi/caesar-cipher.git
-    cd caesar-cipher
+    cd caesar-cipher 
     ```
 
 2. Gerekli bağımlılıkları yükleyin:
