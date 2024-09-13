@@ -19,7 +19,7 @@ Bu proje, IT kariyerim için geliştirdiğim bir Caesar Cipher uygulamasıdır. 
 
 2. Gerekli bağımlılıkları yükleyin:
     ```bash
-    pip install -r requirements.txt
+    pip install tk flask
     ```
 
 ## Kullanım
@@ -41,7 +41,7 @@ Tkinter ile masaüstü uygulamasını çalıştırmak için:
 
 1. Python dosyasını çalıştırın:
     ```bash
-    python tkinter_app.py
+    python app.py
     ```
 
 ## Katkıda Bulunma
