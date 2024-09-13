@@ -41,7 +41,7 @@ Tkinter ile masaüstü uygulamasını çalıştırmak için:
 
 1. Python dosyasını çalıştırın:
     ```bash
-    python app.py
+    python gui_app.py
     ```
 
 ## Katkıda Bulunma
